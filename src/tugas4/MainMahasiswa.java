@@ -8,5 +8,10 @@ public class MainMahasiswa {
        mhs1.tampilInfo();
        mhs1.belajar();
        mhs1.belajar("Pemrograman Java");
+       
+       Mahasiswa mhs2 = new Mahasiswa("Andi", "2310010390");
+       mhs2.tampilInfo();
+       mhs2.belajar();
+       mhs2.belajar("Bahasa Inggris");
     }
 }
