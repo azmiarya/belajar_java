@@ -30,6 +30,7 @@ public class Belajar_biodata {
         System.out.println("    Alamat \t\t\t : "+alamat);
         System.out.println("    Hobi Saya \t\t\t : "+hobi);
         System.out.println("    Tempat tgl lahir \t\t : "+ttl);
+        System.out.println("    Tinggi Badan \t\t : "+ttl);
     }
     
 }
