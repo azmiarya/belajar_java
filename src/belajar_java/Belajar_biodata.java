@@ -20,6 +20,7 @@ public class Belajar_biodata {
         String alamat = "Jalan Banjarbaru";
         String hobi = "Voli";
         String ttl = "Martapura, xx xxxxxx xxxx";
+        int tinggiBadan = 175;
         
         System.out.println("==============================================================================");
         System.out.println("\t\t\tBIODATA DIRI");
